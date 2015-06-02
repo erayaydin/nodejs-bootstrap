@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-bootstrap",
+  "version": "0.0.1",
+  "description": "Nodejs project template with express and twitter bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:erayaydin/node-bootstrap.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "template",
+    "twitter",
+    "bootstrap",
+    "bootstrap3"
+  ],
+  "author": "Eray Aydın <turkwebdeveloper@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.3.4",
+    "jade": "~0.34.1"
+  }
+}
